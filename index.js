@@ -125,9 +125,61 @@
 // }
 
 // for -6
-let a = 20000;
+// let a = 20000;
+// for (let i = 1; i <= 2; i++) {
+//   console.log(a + i);
+// }
 
-for (let i = 1; i <= a; i++) {
-  let b = 1.1;
-  console.log();
+// //for 7
+// let a = 5;
+// let b = 10;
+// let c = 0;
+// for (a; a < b; a++) {
+//   c += a;
+// }
+// alert(c)
+
+//8
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt(" b sonini kiriting");
+// let sum = 1;
+// for (a; a < b; a++) {
+//   sum *= a;
+// }
+// alert(sum);
+
+//9
+// let a = +prompt("a ning qiyymatini kiriting");
+// let b = +prompt("b ning qiyymatini kiriting");
+// let s = 0;
+// for (a; a < b; a++) {//2
+//   s += a * a;//0,4
+// }
+// prompt(s);
+
+//while-16
+// 1-kunda 10 km yugurdi
+// 0 < p < 50;
+
+// let a = +prompt("a sonini kiriting");
+let umumiy = 10;
+let kunlar = 10;
+let p = 10;
+let a = 1;
+
+while (umumiy < 200) {
+  kunlar++;
 }
+console.log(umojkwenfumiy);
+
+// 200 dan oshirib yugurishi kerak
+
+//17
+// let n = 20;
+// let m = 13;
+// let q = 0;
+// while (n >= m) {
+//   n -= m;
+//   q++;
+// }
+// console.log();
